@@ -1,0 +1,1 @@
+This project develops an interactive Power BI dashboard to analyze player performance in the 2024/25 English Premier League (EPL) season. It tracks key metrics like goals, assists, expected goals (xG), passing accuracy, tackles, and heatmaps, offering insights into player efficiency across different positions.
